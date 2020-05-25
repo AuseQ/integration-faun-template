@@ -72,12 +72,27 @@ body {
   background-repeat: no-repeat;
   padding-bottom: 15rem;
 }
-
+/* flexbox section 1*/
 #musicMore {
+  display: flex;
+
  padding-top: 10rem;
  padding-bottom: 1rem;
-}
 
+}
+.element1section1{
+width: 630px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.element2section1{
+
+}
+h1{
+  padding-top: 3rem;
+  padding-bottom: 4.3rem;
+}
 #safe {
   color: #999999;
   font-size: 6rem;
@@ -90,18 +105,41 @@ body {
   opacity: 0.6;
   margin-left: -0.5rem;
   line-height: 6rem;
+  font-weight: bold;
 }
 
 #high {
   color: #fefefe;
   font-size: 5rem;
-  line-height: 8rem;
   margin-left: -0.2rem;
+  font-weight: bold;
+  line-height: 4rem;
 }
 
-#viewMore {
-  font-size: 1.5rem;
-  margin: 1rem;
+.myButton {
+	background-color:transparent;
+	border-radius:3px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:1.5rem;
+	font-weight:bold;
+	padding:5px 26px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:white;
+  color: black;
+  text-decoration: none;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+  /*font-size: 1.5rem;
+  margin: 1rem;*/
 
 }
 

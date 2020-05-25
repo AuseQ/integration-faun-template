@@ -40,24 +40,24 @@
 
 </header>
 
-<div class="row" id="musicMore">
-  <div class="icon-bar col-4 d-flex flex-column">
+<div id="musicMore">
+  <div class="element1section1 icon-bar">
     <a href="#section1" class="effetBar">1</a>
     <a href="#section2" class="effetBar">2</a>
     <a href="#section3" class="effetBar">3</a>
     <a href="#section4" class="effetBar">4</a>
   </div>
 
-  <div class="row d-flex flex-column text-uppercase">
+  <div class="element2section1">
 
-    <h1 class="d-flex flex-column align-items-start pb-5 pt-5">
-      <span id="safe">a safe kind</span><br>
-      <span id="music" class="font-weight-bold">music is</span><br>
-      <span id="high" class="font-weight-bold">of high</span>
+    <h1>
+      <span id="safe">A SAFE KIND</span><br>
+      <span id="music">MUSIC IS</span><br>
+      <span id="high">OF HIGH</span>
     </h1>
 
     <div class="d-flex">
-      <a href="noway.php" type="button" class="btn btn-outline-light font-weight-bold text-center"><span id="viewMore">view more</span></a>
+      <a href="noway.php" class="myButton">VIEW MORE</a>
     </div>
 
   </div>
