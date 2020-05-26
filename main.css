@@ -430,6 +430,9 @@ height: 4px;
     text-align: center;
     font-size: 13px;
   }
+  .imageconcert{
+    width: 90%;
+  }
   #section3{
     display: flex;
     flex-direction: column;

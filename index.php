@@ -82,7 +82,7 @@
 
     <div class="element2section2">
       <div id="abo" class="">abo</div>
-      <img src="img\faun_template_Photo_ABOUTUS.png" alt="Photo Concert" class="" id="imgConcert">
+      <img src="img\faun_template_Photo_ABOUTUS.png" alt="Photo Concert" class="imageconcert" id="imgConcert">
       <div id="concert" >concert</div>
     </div>
 
