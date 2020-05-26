@@ -105,7 +105,7 @@
     <p class="loremB">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
   </div>
 
-  <div class="element1section1 icon-bar">
+  <div class="element3section3 icon-bar">
     <a href="#section1" class="effetBar">1</a>
     <a href="#section2" class="effetBar">2</a>
     <a href="#section3" class="effetBar">3</a>
@@ -123,16 +123,16 @@
 
   <div class="element1section4">
     <div>
-      <a href="photo1.php"><img src="img\faun_template_1.png" alt="Photo n°1" class=""></a>
+      <a href="photo1.php"><img src="img\faun_template_1.png" alt="Photo n°1" class="imgsection4"></a>
     </div>
     <div>
-      <a href="photo2.php"><img src="img\faun_template_2.png" alt="Photo n°2" class=""></a>
+      <a href="photo2.php"><img src="img\faun_template_2.png" alt="Photo n°2" class="imgsection4"></a>
     </div>
     <div>
-      <a href="photo3.php"><img src="img\faun_template_3.png" alt="Photo n°3" class=""></a>
+      <a href="photo3.php"><img src="img\faun_template_3.png" alt="Photo n°3" class="imgsection4"></a>
     </div>
     <div>
-      <a href="photo4.php"><img src="img\faun_template_4.png" alt="Photo n°4" class=""></a>
+      <a href="photo4.php"><img src="img\faun_template_4.png" alt="Photo n°4" class="imgsection4"></a>
     </div>
   </div>
 
